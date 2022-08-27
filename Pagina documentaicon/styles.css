@@ -1,0 +1,56 @@
+body{
+  background-color:#222;
+  color:#fff;
+  display:grid;
+  grid-template-columns:1fr 3fr;
+}
+#navbar{
+  background-color:#333;
+  outline:solid 2px #ff0;
+  padding:1px;
+  display:;
+  position:;
+  max-width:250px;
+}
+#navbar-header{
+  Font-size:30px;
+  margin:10px;
+  text-align:center;
+  color:#ff0;
+}
+
+.nav-link{
+  color:#fff;
+  font-size:20px;
+  
+}
+
+.li-nav{
+  margin-bottom:20px;
+}
+
+
+
+#main-doc{
+  display:;
+  position:;
+  font-size:20px;
+  padding:;
+
+
+
+}
+
+code{
+  color:#0f1;
+  padding-top:5px;
+  padding-bottom:10px;
+  display:inline-block;
+
+}
+
+  @media (max-width:200px) {
+    .nav-link {
+      display:none;
+    }
+  }
